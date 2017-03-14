@@ -11,7 +11,7 @@ This project shows how to make a simple unit test. The following code was ported
     inc : int;
      
     h = 7;
-        letters = “acdegilmnoprstuw”;
+        letters = "acdegilmnoprstuw";
     
     for ( i from 0 to length(s) )
     begin
